@@ -52,7 +52,7 @@ More information [in the documentation](https://mui.com/material-ui/guides/routi
 
 - yarn -v → 1.22.17
 
-## To run JSON server locally (our mock database) - Or use https://my-fake-json-server.herokuapp.com if working
+## To run JSON server locally (our mock database) - Or use https://my-fake-json-server.herokuapp.com if working [Heroku deploy deprecated]
 
 `$ yarn serve-json`
 
